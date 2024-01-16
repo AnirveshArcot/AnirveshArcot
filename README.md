@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cropify](https://github.com/KarsCode/CropifyDev)
 
-- 🕸️ My site: [Portfolio]([https://dhzdhd-portfolio.vercel.app/](https://anirvesharcot.netlify.app/))
+- 🕸️ My site: [Portfolio](https://anirvesharcot.netlify.app/)
 
 - 🌱 I’m currently learning **Machine Learning**
 
